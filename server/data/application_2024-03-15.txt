@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2024-03-15T09:30:15.123Z",
+    "name": "张三",
+    "grade": "大二",
+    "introduction": "我是计算机系的学生，熟悉Java和Python编程...",
+    "submitTime": "2024-03-15T09:30:15.000Z"
+  },
+  {
+    "timestamp": "2024-03-15T10:45:22.456Z",
+    "name": "李四",
+    "grade": "大三",
+    "introduction": "对Web开发很感兴趣，有React项目经验...",
+    "submitTime": "2024-03-15T10:45:22.000Z"
+  }
+] 
